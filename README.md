@@ -8,6 +8,6 @@ le cadre a l'air d'être un peu trop petit, et on a envie de forcer. Mais il ne 
 les mesures !). 
 
 Le programme _gardnerfool.py_  fabrique toutes les formes à la même échelle, mais les uns sur les autres. 
-Il faut utiliser un peu Inscape pour déplacer les pièces sur la feuilles, pour qu'elles ne se chevauchent plus, et puis fabriquer un joli
+Il faut utiliser un peu Inscape pour déplacer les pièces sur la feuille, pour qu'elles ne se chevauchent plus, et puis fabriquer un joli
 cadre et un joli fond comme sur la photo. 
-Si ça vous embête, le fichier _gardnerdecoupe.svg est utilisable de suite. 
+Si ça vous embête, le fichier _gardnerdecoupe.svg_ est utilisable de suite. 
